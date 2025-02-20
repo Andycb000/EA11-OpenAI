@@ -1,0 +1,7 @@
+{
+  "name": "EA11-OpenAI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
